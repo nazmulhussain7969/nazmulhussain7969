@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Fiver**
 
-- 🤝 I’m looking for help with [Linkedin](https://www.linkedin.com/in/marketernhsweet/)
+- 🤝 I’m looking for help with [Linkedin](https://www.linkedin.com/in/devbynazmul/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/nazmulhussain7969](https://github.com/nazmulhussain7969)
 
